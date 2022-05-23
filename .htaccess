@@ -1,4 +1,0 @@
-# Grant direct access to files with extension `.css`, `.js` and `.png` in this folder
-<Files ~ '\.(css|js|png)$'>
-  Allow from all
-</Files>

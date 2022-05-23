@@ -1,9 +1,9 @@
-_Your Layout Name Goes Here_ Layout for [Mecha](https://github.com/mecha-cms/mecha)
-===================================================================================
+Syntax Error Layout for [Mecha](https://github.com/mecha-cms/mecha)
+===================================================================
 
-![Code Size](https://img.shields.io/github/languages/code-size/mecha-cms/y?color=%23444&style=for-the-badge)
+This layout aims to test the installer feature on the [Panel](https://github.com/mecha-cms/x.panel). Panel is expected to reject this layout because it contains PHP syntax error.
 
-![Your Layout Name Goes Here](/index.png)
+![Code Size](https://img.shields.io/github/languages/code-size/mecha-cms/y.syntax-error?color=%23444&style=for-the-badge)
 
 ---
 
